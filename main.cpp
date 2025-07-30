@@ -21,6 +21,11 @@ int divide(int x, int y)
     return x / y;
 }
 
+void printHello()
+{
+    cout << "Hello";
+}
+
 int main()
 {
     cout << "Hello world!" << endl;
