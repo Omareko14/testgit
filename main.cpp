@@ -37,17 +37,6 @@ int divide(int x, int y)
     return x / y;
 }
 
-void printHello()
-{
-    cout << "Hello Company";
-    cout << "Hello";
-<<<<<<< HEAD
-    cout << "Hello Hazem";
-=======
-    cout << "Hello Omar";
->>>>>>> 1693fc64b6553496de75cd2c8a1459398460e559
-}
-
 int y()
 {
     return 0;
