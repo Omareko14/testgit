@@ -57,6 +57,10 @@ int z()
     fd*/
 }
 
+int d()
+{
+    return 4;
+}
 
 int c()
 {
