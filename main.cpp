@@ -42,10 +42,16 @@ int y()
     return 0;
 }
 
+int c()
+{
+    return -3;
+}
 int b()
 {
     return -1;
 }
+
+
 
 int main()
 {
