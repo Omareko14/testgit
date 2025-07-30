@@ -12,6 +12,11 @@ int sub(int x, int y)
     return x - y;
 }
 
+int divide(int x, int y)
+{
+    return x / y;
+}
+
 int main()
 {
     cout << "Hello world!" << endl;
