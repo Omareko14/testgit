@@ -40,6 +40,7 @@ int divide(int x, int y)
 void printHello()
 {
     cout << "Hello";
+    cout << "Hello Hazem";
 }
 
 int y()
