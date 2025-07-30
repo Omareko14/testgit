@@ -28,6 +28,10 @@ int multiply(int x, int y)
 {
     return x * y;
 }
+int x()
+{
+    return 1;
+}
 int divide(int x, int y)
 {
     return x / y;
