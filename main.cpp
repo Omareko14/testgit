@@ -38,6 +38,11 @@ void printHello()
     cout << "Hello";
 }
 
+int y()
+{
+    return 0;
+}
+
 int main()
 {
     cout << "Hello world!" << endl;
