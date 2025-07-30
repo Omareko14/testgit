@@ -42,6 +42,11 @@ int y()
     return 0;
 }
 
+int d()
+{
+    return 4;
+}
+
 int c()
 {
     return -3;
