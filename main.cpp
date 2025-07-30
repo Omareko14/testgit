@@ -5,11 +5,13 @@ using namespace std;
 int add(int x, int y)
 {
     return x + y;
+    //haahahahahahaha
 }
 
 int sub(int x, int y)
 {
     return x - y;
+    // hahahaahhaha
 }
 
 int multiply(int x, int y)
