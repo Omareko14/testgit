@@ -42,6 +42,21 @@ int y()
     return 0;
 }
 
+int z()
+{
+    /*
+    dfdf
+    df
+    d
+    fd
+    fd
+    fd
+    f
+    df
+    d
+    fd*/
+}
+
 int d()
 {
     return 4;
