@@ -41,7 +41,7 @@ void printHello()
 {
     cout << "Hello Company";
     cout << "Hello";
-    cout << "Hello Omar";
+    cout << "Hello Hazem";
 }
 
 int y()
