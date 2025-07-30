@@ -42,6 +42,11 @@ int y()
     return 0;
 }
 
+int b()
+{
+    return -1;
+}
+
 int main()
 {
     cout << "Hello world!" << endl;
