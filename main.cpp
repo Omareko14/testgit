@@ -39,7 +39,9 @@ int divide(int x, int y)
 
 void printHello()
 {
+    cout << "Hello Company";
     cout << "Hello";
+    cout << "Hello Omar";
 }
 
 int y()
